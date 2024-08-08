@@ -1,4 +1,0 @@
-import React from "react";
-function call(){
-    alert("Message from JavaScript alert");
-    console.log("Message to developer");
